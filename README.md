@@ -1,5 +1,7 @@
 # Data Analysis Project - Startup Expansion
-This project involves analyzing data of a company that wants to expand its business to new cities and regions. The data includes information about the company's existing stores, marketing spend, revenue, and the potential expansion locations.
+This project involves analyzing data of a company that wants to expand its business to new and different cities, states and regions. The data includes information about the company's existing stores, marketing spend, revenue, and the potential expansion locations.
+
+
 
 ## Project Overview
 The goal of this project is to help the company make data-driven decisions about expanding its business. The analysis includes:
