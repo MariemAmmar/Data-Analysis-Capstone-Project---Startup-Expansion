@@ -9,7 +9,8 @@ The goal of this project is to help the company make data-driven decisions about
 * Exploring the data to understand the current business and the potential expansion locations.
 * Analyzing the revenue and profit of the existing stores.
 * Calculating the Return on Marketing Spend (ROMS) to evaluate the effectiveness of the marketing campaigns.
-* Visualizing the data to communicate the findings effectively.
+* Generating a Power BI Dashboard and Visualizing the data to communicate the findings effectively.
+
 
 ## Tools and Libraries
 The project is implemented using Python programming language, and the following libraries are used for data analysis and visualization:
